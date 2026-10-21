@@ -1,6 +1,8 @@
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001BFF,50:008CFF,100:00E5FF&height=220&section=header&text=Hi%20There,%20I'm%20Jebisha%20👋&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+<div align="center">
 
-# Hi, I'm Jebisha J
 
 **Aspiring Data Analyst • Python Developer**
 
@@ -10,7 +12,7 @@
 [![Resume](https://img.shields.io/badge/Resume-333333?style=flat&logo=readthedocs&logoColor=white)]([RESUME-LINK]) -->
 
 </div>
-
+</div>
 ---
 
 ## 💫 About me
@@ -105,5 +107,7 @@ An interactive dashboard that cleans raw sales data, analyses it with SQL and fo
 ⭐ Thanks for stopping by!
 
 *Clean data, honest evaluation, clear results.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001BFF,50:008CFF,100:00E5FF&height=100&section=footer"/>
 
 </div>
