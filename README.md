@@ -6,8 +6,8 @@
 
 **Aspiring Data Analyst • Python Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([LINKEDIN-URL])
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[YOUR-EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/jebisha-vj-1engineer])
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[jebishavijaya@gmail.com])
 <!-- Optional: add your portfolio or resume link
 [![Resume](https://img.shields.io/badge/Resume-333333?style=flat&logo=readthedocs&logoColor=white)]([RESUME-LINK]) -->
 
@@ -17,11 +17,10 @@
 
 ## 💫 About me
 
-- 🎓 [Your degree, college and graduation year]
+- 🎓 BE Computer Science and Engineering - 2026
 - 📊 Aspiring data analyst and Python developer who likes turning messy data into clear, trustworthy insights
 - 🔧 Built an end-to-end **sales analytics and forecasting dashboard** with Python, SQL and Streamlit
 - 🧪 I care about testing results honestly, for example comparing forecasts against a simple baseline instead of trusting a single model
-- 📍 [Your city, country]
 - 💬 Ask me about: data cleaning, SQL analytics, time-series forecasting and backtesting, Streamlit
 
 **Mission:** Turning raw data into clear, reliable decisions.
@@ -93,8 +92,8 @@ An interactive dashboard that cleans raw sales data, analyses it with SQL and fo
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([LINKEDIN-URL])
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[YOUR-EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/jebisha-vj-1engineer])
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[jebishavijaya@gmail.com])
 
 <!-- Optional GitHub stats. Add them later, once you have more activity, and check that the images load:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true)
