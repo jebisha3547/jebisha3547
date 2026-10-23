@@ -13,7 +13,7 @@
 
 </div>
 </div>
----
+
 
 ## 💫 About me
 
@@ -99,7 +99,6 @@ An interactive dashboard that cleans raw sales data, analyses it with SQL and fo
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true)
 -->
 
----
 
 <div align="center">
 
