@@ -7,7 +7,7 @@
 **Aspiring Data Analyst • Python Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jebisha-vj-1engineer/?isSelfProfile=true)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[jebishavijaya@gmail.com])
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)]mailto:[jebishavijaya@gmail.com)
 <!-- Optional: add your portfolio or resume link
 [![Resume](https://img.shields.io/badge/Resume-333333?style=flat&logo=readthedocs&logoColor=white)]([RESUME-LINK]) -->
 
@@ -92,8 +92,8 @@ An interactive dashboard that cleans raw sales data, analyses it with SQL and fo
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/jebisha-vj-1engineer])
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[jebishavijaya@gmail.com])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jebisha-vj-1engineer)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jebishavijaya@gmail.com)
 
 <!-- Optional GitHub stats. Add them later, once you have more activity, and check that the images load:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true)
